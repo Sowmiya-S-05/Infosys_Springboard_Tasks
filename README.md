@@ -1,5 +1,5 @@
 # Infosys_Springboard_Tasks
-Power BI Dashboards
+Power BI Dashboards:
 This repository contains 4 Power BI dashboards designed to analyze sales, retail performance, product performance, and customer trends.
 
 Dashboards
